@@ -69,7 +69,7 @@ GEM
     mini_portile2 (2.4.0)
     multi_json (1.0.4)
     netrc (0.11.0)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     polyglot (0.3.3)
     pony (1.4)
