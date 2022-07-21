@@ -4,6 +4,7 @@ GEM
     addressable (2.2.6)
     bcrypt-ruby (3.0.1)
     builder (3.0.0)
+    concurrent-ruby (1.1.10)
     crypt (1.1.4)
     data_mapper (1.2.0)
       dm-aggregates (~> 1.2.0)
@@ -97,7 +98,8 @@ GEM
       polyglot
       polyglot (>= 0.3.1)
     trollop (1.16.2)
-    tzinfo (0.3.31)
+    tzinfo (2.0.5)
+      concurrent-ruby (~> 1.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.6)
